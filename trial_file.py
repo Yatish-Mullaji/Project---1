@@ -1,5 +1,5 @@
 print ("something")
 
-x=21
-y=31
+x=2333
+y=3444
 print(x+y)
