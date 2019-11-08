@@ -1,0 +1,10 @@
+Popolation of the cities trend - - (list 10 cities for each one)
+jobs by category for the same cities and payrolls - (list 10 cities for each one)
+Migration of people trends from historic manufacturing hubs to new tech hubs - (list 10 cities for each one)
+ 
+**compare tech jobs vs manufacturing - compare trends
+--How manufacturing jobs & its revenues are decreasing vs tech jobs & revenues increasing
+--we can conclude it by taking the nations total of overall revenue in both segments
+
+
+--Further scope -- how import of the manufactured goods are increasing and ecommerce is increasing in retail segment and how inhouse manufacturing in decreasing
