@@ -1,0 +1,91 @@
+,Metro Area,NAICS,Industry,Filter,Total
+4661,"Austin-Round Rock, TX Metropolitan Statistical Area",21,Mining,Establishments,168
+4662,"Austin-Round Rock, TX Metropolitan Statistical Area",21,Mining,Employment,"1,439"
+4663,"Austin-Round Rock, TX Metropolitan Statistical Area",21,Mining,"Annual Payroll ($1,000)","70,819"
+4673,"Austin-Round Rock, TX Metropolitan Statistical Area",31-33,Manufacturing,Establishments,"1,202"
+4674,"Austin-Round Rock, TX Metropolitan Statistical Area",31-33,Manufacturing,Employment,"50,637"
+4675,"Austin-Round Rock, TX Metropolitan Statistical Area",31-33,Manufacturing,"Annual Payroll ($1,000)","2,690,442"
+4689,"Austin-Round Rock, TX Metropolitan Statistical Area",51,Information,Establishments,966
+4690,"Austin-Round Rock, TX Metropolitan Statistical Area",51,Information,Employment,"24,084"
+4691,"Austin-Round Rock, TX Metropolitan Statistical Area",51,Information,"Annual Payroll ($1,000)","1,629,284"
+4693,"Austin-Round Rock, TX Metropolitan Statistical Area",52,Finance and Insurance,Establishments,"2,632"
+4694,"Austin-Round Rock, TX Metropolitan Statistical Area",52,Finance and Insurance,Employment,"31,350"
+4695,"Austin-Round Rock, TX Metropolitan Statistical Area",52,Finance and Insurance,"Annual Payroll ($1,000)","1,799,084"
+4701,"Austin-Round Rock, TX Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Establishments,"5,805"
+4702,"Austin-Round Rock, TX Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Employment,"59,719"
+4703,"Austin-Round Rock, TX Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services","Annual Payroll ($1,000)","4,073,094"
+8629,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",21,Mining,Establishments,50
+8630,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",21,Mining,Employment,[f]
+8631,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",21,Mining,"Annual Payroll ($1,000)",(D)
+8641,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",31-33,Manufacturing,Establishments,"5,102"
+8642,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",31-33,Manufacturing,Employment,"180,266"
+8643,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",31-33,Manufacturing,"Annual Payroll ($1,000)","11,352,277"
+8657,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",51,Information,Establishments,"2,965"
+8658,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",51,Information,Employment,"92,604"
+8659,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",51,Information,"Annual Payroll ($1,000)","6,955,260"
+8661,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",52,Finance and Insurance,Establishments,"7,460"
+8662,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",52,Finance and Insurance,Employment,"182,689"
+8663,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",52,Finance and Insurance,"Annual Payroll ($1,000)","18,075,723"
+8669,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Establishments,"17,916"
+8670,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Employment,"230,172"
+8671,"Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services","Annual Payroll ($1,000)","18,523,436"
+13509,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",21,Mining,Establishments,99
+13510,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",21,Mining,Employment,[g]
+13511,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",21,Mining,"Annual Payroll ($1,000)",(D)
+13521,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",31-33,Manufacturing,Establishments,"12,105"
+13522,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",31-33,Manufacturing,Employment,"477,713"
+13523,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",31-33,Manufacturing,"Annual Payroll ($1,000)","23,867,952"
+13537,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",51,Information,Establishments,"4,224"
+13538,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",51,Information,Employment,[m]
+13539,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",51,Information,"Annual Payroll ($1,000)",(D)
+13541,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",52,Finance and Insurance,Establishments,"17,790"
+13542,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",52,Finance and Insurance,Employment,"277,467"
+13543,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",52,Finance and Insurance,"Annual Payroll ($1,000)","23,665,415"
+13549,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Establishments,"33,279"
+13550,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Employment,"325,521"
+13551,"Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services","Annual Payroll ($1,000)","22,417,271"
+19001,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",21,Mining,Establishments,54
+19002,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",21,Mining,Employment,443
+19003,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",21,Mining,"Annual Payroll ($1,000)","27,820"
+19013,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",31-33,Manufacturing,Establishments,"6,052"
+19014,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",31-33,Manufacturing,Employment,"243,121"
+19015,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",31-33,Manufacturing,"Annual Payroll ($1,000)","13,536,729"
+19029,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",51,Information,Establishments,"1,787"
+19030,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",51,Information,Employment,"44,591"
+19031,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",51,Information,"Annual Payroll ($1,000)","2,846,770"
+19033,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",52,Finance and Insurance,Establishments,"6,363"
+19034,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",52,Finance and Insurance,Employment,"89,348"
+19035,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",52,Finance and Insurance,"Annual Payroll ($1,000)","5,074,756"
+19041,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Establishments,"11,867"
+19042,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Employment,"210,993"
+19043,"Detroit-Warren-Livonia, MI Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services","Annual Payroll ($1,000)","14,030,573"
+49717,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",21,Mining,Establishments,138
+49718,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",21,Mining,Employment,"2,379"
+49719,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",21,Mining,"Annual Payroll ($1,000)","162,053"
+49729,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",31-33,Manufacturing,Establishments,"18,768"
+49730,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",31-33,Manufacturing,Employment,"439,938"
+49731,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",31-33,Manufacturing,"Annual Payroll ($1,000)","21,240,708"
+49745,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",51,Information,Establishments,"11,509"
+49746,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",51,Information,Employment,"318,634"
+49747,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",51,Information,"Annual Payroll ($1,000)","26,131,586"
+49749,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",52,Finance and Insurance,Establishments,"30,092"
+49750,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",52,Finance and Insurance,Employment,"630,286"
+49751,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",52,Finance and Insurance,"Annual Payroll ($1,000)","102,105,472"
+49757,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Establishments,"69,102"
+49758,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Employment,"677,266"
+49759,"New York-Newark-Edison, NY-NJ-PA Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services","Annual Payroll ($1,000)","52,723,971"
+61849,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",21,Mining,Establishments,47
+61850,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",21,Mining,Employment,[g]
+61851,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",21,Mining,"Annual Payroll ($1,000)",(D)
+61861,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",31-33,Manufacturing,Establishments,"4,493"
+61862,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",31-33,Manufacturing,Employment,[m]
+61863,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",31-33,Manufacturing,"Annual Payroll ($1,000)",(D)
+61877,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",51,Information,Establishments,"3,028"
+61878,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",51,Information,Employment,"89,695"
+61879,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",51,Information,"Annual Payroll ($1,000)","8,630,454"
+61881,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",52,Finance and Insurance,Establishments,"8,329"
+61882,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",52,Finance and Insurance,Employment,"130,993"
+61883,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",52,Finance and Insurance,"Annual Payroll ($1,000)","15,651,004"
+61889,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Establishments,"19,159"
+61890,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services",Employment,"258,815"
+61891,"San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area",54,"Professional, Scientific, and Technical Services","Annual Payroll ($1,000)","20,298,088"
