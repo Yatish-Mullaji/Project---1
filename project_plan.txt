@@ -1,0 +1,22 @@
+SF
+Huston
+Austin
+Detrit
+Chicago
+Boston
+New York
+
+Unnamed: 1 (area name)
+Unnamed: 4 (total)
+Unnamed: 6 (number of establishments)
+Unnamed: 7 (employment)
+Unnamed: 10 (annual payrol)
+
+
+San Francisco-Oakland-Hayward, CA Metro Area
+Houston-The Woodlands-Sugar Land, TX Metro Area
+Austin, MN Micro Area
+Detroit-Warren-Dearborn, MI Metro Area
+Chicago-Naperville-Elgin, IL-IN-WI Metro Area
+Boston-Cambridge-Newton, MA-NH Metro Area
+New York-Newark-Jersey City, NY-NJ-PA Metro Area
