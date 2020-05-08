@@ -32,7 +32,7 @@ Observe how number of Tech companies in the city effects population, employment 
 ## Trend Analysis:
 ![](Austin-Boston.PNG?raw=true "Optional Title")
 
-![](Chicago-Detriot.PNG?raw=true "Optional Title")
+![](Chicago-Detroit.PNG?raw=true "Optional Title")
 
 ![](NewYork-SanFran.PNG?raw=true "Optional Title")
 
