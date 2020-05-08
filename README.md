@@ -30,7 +30,7 @@ Observe how number of Tech companies in the city effects population, employment 
 - **Data for Information and Professional, scientific and technical services were grouped together and considered under** “Tech sector “ for the trend observations
 
 ## Trend Analysis:
-![](Austn-Boston.PNG?raw=true "Optional Title")
+![](Austin-Boston.PNG?raw=true "Optional Title")
 
 ![](Chicago-Detriot.PNG?raw=true "Optional Title")
 
